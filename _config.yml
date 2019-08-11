@@ -10,16 +10,10 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
 owner: Neha Kompella
-email: name@example.com
+email: neha.kompella@gmail.com
 facebook_username: example
 twitter_username: example
-github_username: example
-address:
-  - line: 3481 Melrose Hill St
-  - line: "Los Angeles, CA 90029"
-  # Feel free to add more lines here 
-telephone: (123) 456-7890
-copyright: NK
+github_username: nkompella
 
 # API settings
 google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
